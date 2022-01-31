@@ -6,31 +6,31 @@ We have been learning and testing different machine-learning algorithms in Pytho
 
 ## Results
 ### Naive Random Oversampling
-[](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Naive%20Random%20Oversampling.png)
+[Naive Random Oversampling](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Naive%20Random%20Oversampling.png)
 - Balanced Accuracy Score: 59%
 - Precision: 1%
 - Recall: 51%
 
 ### SMOTE Oversampling
-[](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/SMOTE%20Oversampling.png)
+[SMOTE Oversampling](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/SMOTE%20Oversampling.png)
 - Balanced Accuracy Score: 57%
 - Precision: 1%
 - Recall: 48%
-- 
+
 ### Undersampling
-[](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Undersampling.png)
+[Undersampling](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Undersampling.png)
 - Balanced Accuracy Score: 57%
 - Precision: 1%
 - Recall: 58%
-- 
+
 ### Combination (Over and Under) Sampling
-[](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Combination%20Sampling.png)
+[Combination Sampling](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Combination%20Sampling.png)
 - Balanced Accuracy Score: 52%
 - Precision: 1%
 - Recall: 70%
-- 
+
 ### Balanced Random Forest Classifier
-[](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Balanced%20Random%20Forest%20Classifier.png)
+[Balanced Random Forest Classifier](https://github.com/rharazim/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/Balanced%20Random%20Forest%20Classifier.png)
 - Balanced Accuracy Score: 70%
 - Precision: 3%
 - Recall: 51%
